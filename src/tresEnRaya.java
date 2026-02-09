@@ -17,6 +17,8 @@ import java.util.Scanner;
  * </ul>
  *
  * <p>Incluye colores ANSI para mejorar la salida por consola.
+ *
+ * @author Ivan Ribés Moliner
  */
 public class tresEnRaya {
     public static final String RESET = "\u001B[0m";
